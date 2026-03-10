@@ -14,7 +14,7 @@
 ## 🖼️ Teaser
 
 <p align="center">
-  <img src="./assets/teaser.jpg" alt="PanoAffordanceNet Teaser" width="90%">
+  <img src="./assets/teaser.jpg" alt="PanoAffordanceNet Teaser" width="85%">
 </p>
 
 
