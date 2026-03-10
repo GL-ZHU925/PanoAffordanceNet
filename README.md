@@ -15,7 +15,7 @@
 <sup>2</sup>National Engineering Research Center of Robot Visual Perception and Control Technology, Hunan University, China
 <sup>†</sup>Corresponding author: [kailun.yang@hnu.edu.cn](mailto:kailun.yang@hnu.edu.cn)
 
-<img src="assets/teaser3.png" width="100%" alt="PanoAffordanceNet Teaser">
+
 </div>
 
 
