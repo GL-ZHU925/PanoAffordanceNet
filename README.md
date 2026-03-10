@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# PanoAffordanceNet
+# PanoAffordanceNet:
 ## Towards Holistic Affordance Grounding in 360° Indoor Environments
 </div>
 
