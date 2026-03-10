@@ -1,4 +1,4 @@
 <div align="center">
-  <h1>PanoAffordanceNet:</h1>
-  <h2>Towards Holistic Affordance Grounding in 360° Indoor Environments</h2>
+  <p style="font-size: 36px; font-weight: bold; margin: 0;">PanoAffordanceNet:</p>
+  <p style="font-size: 36px; font-weight: bold; margin: 0;">Towards Holistic Affordance Grounding in 360° Indoor Environments</p>
 </div>
