@@ -8,16 +8,15 @@
 
 # PanoAffordanceNet
 ## Towards Holistic Affordance Grounding in 360° Indoor Environments
-
-<img src="assets/teaser.jpg" width="100%" alt="Teaser">
-
----
-
-
-
 </div>
 
----
+
+## 🖼️ Teaser
+
+<p align="center">
+  <img src="./assets/teaser.jpg" alt="PanoAffordanceNet Teaser" width="100%">
+</p>
+
 
 ## 📖 Introduction
 
@@ -25,10 +24,13 @@
 
 ---
 
-## 🚀 Status
+## 🚀 Coming Soon
+
 - [ ] Release the **360-AGD** dataset.
 - [ ] Release **PanoAffordanceNet** model architecture and training code.
 ---
 
-## 📧 Contact
-For any questions, please open an issue or contact `你的邮箱 (可选)`.
+## ✉️ Contact
+
+For any inquiries or potential collaborations, please open an issue or contact:
+`zhuzhuxia@hnu.edu.cn`
