@@ -4,3 +4,33 @@
 </div> -->
 
 
+<div align="center">
+
+# PanoAffordanceNet
+### Towards Holistic Affordance Grounding in 360° Indoor Environments
+
+<img src="assets/teaser3.psf" width="100%" alt="Teaser">
+
+---
+
+### [Paper (Coming Soon)] | [360-AGD Dataset (Coming Soon)] | [Code (Coming Soon)]
+
+</div>
+
+---
+
+## 📖 Introduction
+
+> **This work initiates the study of Holistic Affordance Grounding in 360° Indoor Environments.** Embodied agents require global awareness for their 360° action space, yet current affordance research remains limited to object-centric, perspective views. To bridge this gap, we introduce a new task of **holistic affordance grounding in 360° indoor environments**, shifting the paradigm from isolated object-level understanding toward holistic scene-level reasoning, and propose **PanoAffordanceNet** as a solid baseline for scene-level perception in embodied intelligence.
+
+---
+
+## 🚀 Status
+- [ ] Release the **360-AGD** dataset (containing 360° panoramic annotations).
+- [ ] Release **PanoAffordanceNet** model architecture and training code.
+- [ ] Release pre-trained weights.
+
+---
+
+## 📧 Contact
+For any questions, please open an issue or contact `你的邮箱 (可选)`.
