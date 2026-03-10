@@ -7,13 +7,13 @@
 <div align="center">
 
 # PanoAffordanceNet
-### Towards Holistic Affordance Grounding in 360° Indoor Environments
+## Towards Holistic Affordance Grounding in 360° Indoor Environments
 
-<img src="assets/teaser3.psf" width="100%" alt="Teaser">
+<img src="assets/teaser.jpg" width="100%" alt="Teaser">
 
 ---
 
-### [Paper (Coming Soon)] | [360-AGD Dataset (Coming Soon)] | [Code (Coming Soon)]
+
 
 </div>
 
@@ -26,10 +26,8 @@
 ---
 
 ## 🚀 Status
-- [ ] Release the **360-AGD** dataset (containing 360° panoramic annotations).
+- [ ] Release the **360-AGD** dataset.
 - [ ] Release **PanoAffordanceNet** model architecture and training code.
-- [ ] Release pre-trained weights.
-
 ---
 
 ## 📧 Contact
