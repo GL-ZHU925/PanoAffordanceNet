@@ -8,6 +8,14 @@
 
 # PanoAffordanceNet:
 ## Towards Holistic Affordance Grounding in 360° Indoor Environments
+
+[**Guoliang Zhu**](https://github.com/GL-ZHU925)<sup>1</sup>, [**Wanjun Jia**](https://github.com/Dikay1)<sup>1</sup>, [**Caoyang Shao**](https://github.com/yAnaM1-AnNaa)<sup>1</sup>, [**Yuheng Zhang**]<sup>1</sup>, [**Zhiyong Li**]<sup>1,2</sup>, [**Kailun Yang**](https://kailunyang.com/)<sup>1,2,†</sup>
+
+<sup>1</sup>School of Artificial Intelligence and Robotics, Hunan University, China
+<sup>2</sup>National Engineering Research Center of Robot Visual Perception and Control Technology, Hunan University, China
+<sup>†</sup>Corresponding author: [kailun.yang@hnu.edu.cn](mailto:kailun.yang@hnu.edu.cn)
+
+<img src="assets/teaser3.png" width="100%" alt="PanoAffordanceNet Teaser">
 </div>
 
 
